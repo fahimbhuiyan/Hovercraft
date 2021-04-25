@@ -3,9 +3,8 @@
  
 #Vision Sensors
 
-https://user-images.githubusercontent.com/58400940/115976549-180c9d00-a53d-11eb-8b25-87745e88de4e.mp4
+https://user-images.githubusercontent.com/58400940/115976580-65890a00-a53d-11eb-81d0-b4bf89244a5a.mp4
 
 #Proximity Sensors
 
-https://user-images.githubusercontent.com/58400940/115976559-25c22280-a53d-11eb-9f64-80b19ac3e3da.mp4
-
+https://user-images.githubusercontent.com/58400940/115976585-70439f00-a53d-11eb-9716-ae91832a958d.mp4
