@@ -1,6 +1,8 @@
 # :rocket: Hovercraft :rocket:
- Hovercraft designed on CAD and simulated on CopperliaSim. An Anduino was used to program the sensors with the fans. 
- 
+## *:trophy: Second Place Award Hovercraft Design :trophy:*
+  ![alt text](https://imgur.com/qjeTgc5.jpg)
+ Hovercraft designed on CAD and simulated on CopperliaSim. An Anduino was used to program the sensors with the fans.
+
 #Vision Sensors
 
 https://user-images.githubusercontent.com/58400940/115976580-65890a00-a53d-11eb-81d0-b4bf89244a5a.mp4
